@@ -20,7 +20,7 @@ Both are required. Neither alone is enough.
 Every tag is classified by a `Type of code` field (the watsonx.data base calls it `Type of tag` — same values). The types fall into two layers.
 
 ### Keywords — the filter layer (`Tool/Software/Company`, `keyword`, `Persona/Target User`)
-The concrete, searchable things a participant named or clearly referred to. This is the layer you filter by, so **more is better** — tag every one; there is no cap.
+The concrete, searchable things a participant named or clearly referred to. This is the layer you filter by, so **more is better** — tag every one; there is no cap. **Grounded only:** the term must appear in the row, or clearly name a specific tool/product/company — never invent a paraphrase for a concept the row only implies (e.g. don't tag `TL;DR` on "just tell me what I need to know"). "Exhaustive" means over the terms actually present; inferred meaning is a *code*, not a keyword.
 
 **Examples:**
 - Tools / companies (`Tool/Software/Company`): `watsonx.data`, `Databricks`, `Snowflake`, `Figma`, `GitHub`, `Carbon MCP`, `Bob`

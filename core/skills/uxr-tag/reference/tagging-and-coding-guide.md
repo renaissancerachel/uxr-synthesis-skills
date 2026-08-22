@@ -19,6 +19,8 @@ Every tag lives in the Tags/Codes table and is classified by a **`Type of code`*
 
 Keywords are the concrete, searchable things a participant actually named or referred to. They are the layer you filter by later, so **quantity is the goal: tag every keyword that appears.** You never know what someone will want to filter on, and the cost of an extra keyword is basically zero. There is **no cap** on keywords per row.
 
+But **"that appears" is literal.** Tag a keyword only when the term is actually in the row, or clearly names a specific tool/product/company. Never invent a paraphrase keyword for a concept the participant only implied — e.g. don't tag `summary` or `TL;DR` on *"just tell me what I need to know"*; those words aren't there, and the impatience is captured by a **code** instead. Be exhaustive over the terms that are really present, not over your interpretations of them.
+
 `Type of code` values in this layer:
 - **`Tool/Software/Company`** — products, tools, platforms, competitors, companies, orgs: `watsonx.data`, `Databricks`, `Figma`, `Claude Code`, `GitHub`, `Carbon MCP`, `Bob`, `Gilead`, `Power BI`.
 - **`keyword`** — concrete artifacts, actions, and technical terms: `screenshots`, `video`, `pull request`, `wireframe`, `presentation`, `repo`, `terminal`, `grid`, `MCP`, `component`, `prototype`, `instructions file`, `slash command`, `compliance-as-code`, `oncology`, `FinOps`.

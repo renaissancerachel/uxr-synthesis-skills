@@ -17,7 +17,7 @@ If the input is from the **Transcript App**, treat its Keywords column as candid
 
 **Q1 — Semantic codes:** What is this row actually expressing — what behavior, barrier, pattern, or process? Apply the codes that capture that meaning. **Codes go first.**
 
-**Q2 — Keyword recognition (be exhaustive — more is better):** Which concrete, filterable things does the row name or clearly refer to — products, tools, platforms, companies, roles, and artifacts (screenshots, video, PR, wireframe, deck, repo)? Apply a keyword for every one. **Keywords go after codes.**
+**Q2 — Keyword recognition (be exhaustive — more is better):** Which concrete, filterable things does the row name or clearly refer to — products, tools, platforms, companies, roles, and artifacts (screenshots, video, PR, wireframe, deck, repo)? Apply a keyword for every one. **Grounded only:** the term must actually appear in the row, or clearly name a specific tool/product/company — never invent a paraphrase keyword for a concept the row only implies (e.g. don't tag `TL;DR` or `summary` on "just tell me what I need to know here" — those words aren't in the quote). "Exhaustive" means over the terms that are really there, not concepts you inferred; inferred meaning belongs in a **code**, not a keyword. **Keywords go after codes.**
 
 Both questions, every row. Neither alone is enough. The Tags cell is one comma-separated value containing both — codes first, then keywords.
 
@@ -36,7 +36,7 @@ This makes the interpretive signal visible first when scanning the column.
 
 ## Limits
 
-- **Keywords: no cap — more is better.** Apply a keyword for every product, tool, company, role, or artifact the row names. The keyword layer is the filter layer; completeness is the goal (you never know what someone will filter by).
+- **Keywords: no cap — more is better, but grounded.** Apply a keyword for every product, tool, company, role, or artifact the row **actually names** — never invent a paraphrase for something the row only implies. The keyword layer is the filter layer; completeness *over what's really there* is the goal (you never know what someone will filter by). If the term isn't in the quote and isn't a clearly-named tool, it's a code (if interpretive) or nothing.
 - **Interpretive codes: keep it tight (~5).** Stacking 6+ *codes* (the themes/behaviors you interpret) is over-interpreting — each should differentiate the row, not restate the study topic. Quality is for findings.
 - Minimum 0. Many rows legitimately get no tags — that is correct.
 - Moderator rows: leave Tags blank. Always.
