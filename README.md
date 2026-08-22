@@ -38,7 +38,9 @@ The tag vocabulary bundled with `uxr-tag` is a starting point. Swap in your own 
 
 ## Airtable integration
 
-An optional Airtable add-on — query your research base and push finished data points into it — is planned. It will ship with a **copyable Airtable base template** so you set it up against *your own* base, and is aimed at agents that don't already have a native Airtable connector. Coming in a future release.
+An optional [Airtable add-on](airtable-addon/) connects the pipeline to a research base — **query** it ("what did people say about X?") and **push** a finished data-point CSV into it. It ships with a **copyable Airtable base template** so you set it up against *your own* base, and addresses every table and field by name (no base IDs or credentials in the repo — you bring your own access). See [`airtable-addon/README.md`](airtable-addon/README.md) and [`airtable-addon/SETUP.md`](airtable-addon/SETUP.md).
+
+The template base includes one fully worked example study — *"The Base That Studies Itself"* — that teaches the workflow as you explore it.
 
 ## Provenance
 
