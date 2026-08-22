@@ -15,29 +15,27 @@ Both are required. Neither alone is enough.
 
 ---
 
-## Two types of tags
+## Two layers: keywords and codes
 
-### Taxonomy Tags
-Controlled, stable proper nouns and technical terms. These are the vocabulary of your product space. Apply them when the participant explicitly mentions or clearly refers to the term.
+Every tag is classified by a `Type of code` field (the watsonx.data base calls it `Type of tag` — same values). The types fall into two layers.
 
-**Examples:**
-- Product/tool names: `watsonx.data`, `Databricks`, `Snowflake`, `Python`, `LangGraph`, `Milvus`
-- Feature names: `metastore`, `data catalog`, `RAG`, `iceberg table`, `query engine`
-- User roles: `data engineer`, `data steward`, `data analyst`, `platform admin`
-- Company types: `bank`, `regulated industry`, `enterprise`
-
-**The rule:** If it's a proper noun or specific technical term the team would search for by name, it's a taxonomy tag.
-
-### Codes
-Emergent, interpretive tags. These are the concepts, patterns, and signals you're pulling out of the data — what the participant is *telling* you, not just what words they used.
+### Keywords — the filter layer (`Tool/Software/Company`, `keyword`, `Persona/Target User`)
+The concrete, searchable things a participant named or clearly referred to. This is the layer you filter by, so **more is better** — tag every one; there is no cap.
 
 **Examples:**
-- Behavioral: `workaround`, `comparison`, `habit`, `abandonment`, `shortcut`
-- Sentiment: `frustration`, `delight`, `uncertainty`, `trust`, `skepticism`
-- Conceptual: `discoverability`, `mental model`, `onboarding friction`, `information architecture`
-- Process: `manual step`, `context switching`, `collaboration point`, `error recovery`
+- Tools / companies (`Tool/Software/Company`): `watsonx.data`, `Databricks`, `Snowflake`, `Figma`, `GitHub`, `Carbon MCP`, `Bob`
+- Concrete terms & artifacts (`keyword`): `metastore`, `data catalog`, `RAG`, `screenshots`, `video`, `pull request`, `wireframe`, `presentation`, `repo`, `terminal`, `MCP`, `oncology`
+- Roles / audiences (`Persona/Target User`): `data engineer`, `data steward`, `designer`, `UX engineer`, `developer`, `VP`
 
-**The rule:** If it's something you're interpreting from what the participant said — what they're feeling, what pattern they're exhibiting, what concept underlies their statement — it's a code.
+**The rule:** if a participant named it or referred to a concrete thing someone might filter by — a tool, company, role, or artifact — tag it. Reach wide.
+
+### Codes — the interpretive layer (`Theme`, `Feature/Capability`, `Workflow/Process`)
+Emergent, interpretive tags — what the participant is *telling* you, not just what words they used. Here **quality wins**: apply a few sharp ones, not a pile.
+
+**Examples:**
+- Behavioral / sentiment / conceptual Themes: `workaround`, `frustration`, `discoverability`, `onboarding friction`, `mental model`, `context switching`, `trust barrier`
+
+**The rule:** if you're interpreting rather than transcribing — a feeling, a pattern, an underlying concept — it's a code (usually a `Theme`). Keep it tight; it feeds findings.
 
 ---
 
@@ -45,8 +43,8 @@ Emergent, interpretive tags. These are the concepts, patterns, and signals you'r
 
 For each substantive data point row, ask these two questions in order:
 
-**Question 1 — Keyword recognition:**
-Did the participant mention a specific product, tool, feature, or role? Check against your taxonomy tags. If a match exists, apply it. A single row can have multiple taxonomy tags if multiple products/tools are mentioned.
+**Question 1 — Keyword recognition (be exhaustive — more is better):**
+Which concrete, filterable things does this row name or clearly refer to — products, tools, platforms, companies, roles, and artifacts (screenshots, video, PR, wireframe, deck, repo)? Apply a keyword for every one; reuse an existing keyword if it exists, propose a new one if not. Quantity is the goal for this layer — you never know what someone will filter by.
 
 **Question 2 — Semantic interpretation:**
 What is this row actually about? What behavior, sentiment, concept, or process does it express? Apply the codes that represent that meaning.
@@ -57,7 +55,8 @@ Most rows get a mix of both. A row about struggling to find data in watsonx.data
 
 ## Tagging limits
 
-- **Maximum 5–7 tags per row.** If you're regularly hitting 8+, you're over-tagging. Ask: does each tag meaningfully differentiate this row from other rows, or is it just describing the study topic in general?
+- **Keywords: no cap — more is better.** Tag every product, tool, company, role, and artifact the row names. The keyword layer is the filter layer; completeness beats brevity.
+- **Interpretive codes: keep it tight (~5).** If you're stacking 6+ *codes* (the behaviors/sentiments/themes you interpret), you're over-interpreting — each code should differentiate this row, not restate the study topic. Quality lives here; it feeds findings.
 - **Minimum 0.** Many rows legitimately get no tags — moderator lines, greetings, conversational filler that survived earlier phases, rows that provide context but no analysis value. That is correct. Do not tag just to fill the column.
 - **Do not tag moderator rows.** Ever. Leave their Tags cells blank.
 
@@ -95,7 +94,7 @@ Some terms need judgment to tag correctly:
 If the input CSV already has a Keywords column from the Transcript App:
 1. Read the Keywords column as **candidate taxonomy tags only**
 2. Keep the ones that match your taxonomy exactly (same name, correct spelling)
-3. Discard keywords that don't match any tag in your config — they are not tags, they are surface-level term detections
+3. For a keyword that doesn't match your config, don't discard it reflexively — if it names a real product, tool, company, role, or artifact, keep it as a proposed new keyword (more is better). Drop only true noise (fragments, non-terms)
 4. Run the full two-question tagging pass (keyword recognition + semantic interpretation) as if starting fresh
 5. The final Tags column is the output of your full pass, not the Keywords column
 
@@ -108,7 +107,7 @@ The Keywords column from the app is a starting point, not a result.
 If a concept or term appears in the data that genuinely does not fit any existing tag in your config:
 
 Flag it this way:
-> `PROPOSED: [tag name] — [type: Taxonomy/Code] — [suggested type-of-tag category] — appears in N rows. Reason: [one sentence on why this is a new tag, not an existing one in different form]`
+> `PROPOSED: [tag name] — [Type of code: Tool/Software/Company | keyword | Persona/Target User | Theme | Feature/Capability | Workflow/Process] — appears in N rows. Reason: [one sentence on why this is a new tag, not an existing one in different form]`
 
 Do not add new tags to the CSV silently. The researcher reviews all proposals and decides whether to add them to the config.
 

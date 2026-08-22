@@ -35,7 +35,7 @@ Moderator rows:
   evidence in Phase 5.
 
 Tag rules:
-  Max 5–7 tags per row. Min 0 — many rows get no tags.
+  Keywords: no cap (more is better — tag every tool/company/role/artifact). Codes: keep tight (~5). Min 0 — many rows get no tags.
   Proposed new tags: flag as PROPOSED: [name] — [type] — [reason]. Do not add silently.
   Re-tag Transcript App output from scratch. Do not trust app-generated keywords as final.
 

@@ -17,7 +17,7 @@ If the input is from the **Transcript App**, treat its Keywords column as candid
 
 **Q1 — Semantic codes:** What is this row actually expressing — what behavior, barrier, pattern, or process? Apply the codes that capture that meaning. **Codes go first.**
 
-**Q2 — Keyword recognition:** Did the participant mention a specific product, tool, platform, role, or named artifact? Apply matching keyword tags. **Keywords go after codes.**
+**Q2 — Keyword recognition (be exhaustive — more is better):** Which concrete, filterable things does the row name or clearly refer to — products, tools, platforms, companies, roles, and artifacts (screenshots, video, PR, wireframe, deck, repo)? Apply a keyword for every one. **Keywords go after codes.**
 
 Both questions, every row. Neither alone is enough. The Tags cell is one comma-separated value containing both — codes first, then keywords.
 
@@ -36,7 +36,8 @@ This makes the interpretive signal visible first when scanning the column.
 
 ## Limits
 
-- Maximum 5–7 tags per row. If you're regularly hitting 8+, you're over-tagging.
+- **Keywords: no cap — more is better.** Apply a keyword for every product, tool, company, role, or artifact the row names. The keyword layer is the filter layer; completeness is the goal (you never know what someone will filter by).
+- **Interpretive codes: keep it tight (~5).** Stacking 6+ *codes* (the themes/behaviors you interpret) is over-interpreting — each should differentiate the row, not restate the study topic. Quality is for findings.
 - Minimum 0. Many rows legitimately get no tags — that is correct.
 - Moderator rows: leave Tags blank. Always.
 
@@ -76,7 +77,7 @@ Use the team taxonomy and codes from `reference/taxonomy.json` and `reference/co
 ## Proposing new tags
 
 When a concept genuinely doesn't fit any existing tag:
-> `PROPOSED: [tag name] — [Taxonomy/Code] — appears in N rows. Reason: [one sentence]`
+> `PROPOSED: [tag name] — [Type of code: Tool/Software/Company | keyword | Persona/Target User | Theme | Feature/Capability | Workflow/Process] — appears in N rows. Reason: [one sentence]`
 
 Flag it; do not add it to the CSV silently. The researcher decides.
 

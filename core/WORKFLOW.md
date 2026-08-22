@@ -86,7 +86,7 @@ Add study-specific columns after `Tags` (e.g., `Research Question`, `Participant
 
 **Quote attribution** — UserTesting usernames verbatim; real names as first-initial + last-initial only (e.g., `RM`). Never include record IDs, session dates, companies, or roles in the attribution line.
 
-**Tag limits** — 5–7 tags per row max, 0 minimum. Over-tagging every row is worse than under-tagging.
+**Tag limits** — keywords: no cap (more is better — tag every tool, company, role, and artifact named); interpretive codes: keep tight (~5, each should differentiate the row); 0 minimum (many rows get none).
 
 **Proposing new tags** — flag as `PROPOSED: [tag] — [type] — reason: appears in N rows`. Never add silently; the researcher decides.
 
