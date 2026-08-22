@@ -1,0 +1,1434 @@
+[
+  {
+    "tag": "watsonx.data",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "menu navigation concept UX feedback",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Databricks",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Spark",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Milvus",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Snowflake",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AI",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Presto",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AWS",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "IBM",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "access control",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "SQL",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "access",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "lakehouse",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Iceberg",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Problems solved",
+    "type": "Metric"
+  },
+  {
+    "tag": "Python",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "data engineer",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "RAG",
+    "type": "Use case"
+  },
+  {
+    "tag": "Feedback for concept A: separate",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "API vs UI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PDF",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "watsonx",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "IBM Cloud",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "JSON",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "CSV",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "role-based views",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Microsoft Azure",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AWS S3",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Catalog concept comparison",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "IKC",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "metadata catalog",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Redshift",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Prompt Lab",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "watsonx.ai",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "admin",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "BigQuery",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Azure",
+    "type": "\u2014"
+  },
+  {
+    "tag": "developer",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "Areas of Improvement",
+    "type": "\u2014"
+  },
+  {
+    "tag": "data scientist",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "observability",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "persona",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "watsonx Orchestrate",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "ACL",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Alteryx",
+    "type": "\u2014"
+  },
+  {
+    "tag": "onboarding",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "LLM",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Talend",
+    "type": "\u2014"
+  },
+  {
+    "tag": "UX benchmark: assist",
+    "type": "\u2014"
+  },
+  {
+    "tag": "agentic AI",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Airflow",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "GCP",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "S3 bucket",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Kafka",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "SaaS",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "COS bucket",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Data Fabric",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "GitHub",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "OpenShift",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Cloud Object Storage",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Postgres",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "REST",
+    "type": "\u2014"
+  },
+  {
+    "tag": "What could be improved?",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Cloud Pak for Data",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Excel",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "TypeScript",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AI assistant",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AWS RDS",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Azure Data Factory",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "data governance",
+    "type": "\u2014"
+  },
+  {
+    "tag": "feedback on IBM tools",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Slack",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "software",
+    "type": "keyword"
+  },
+  {
+    "tag": "starburst",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Elasticsearch",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Astra",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AWS Glue",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Db2",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "REST API",
+    "type": "\u2014"
+  },
+  {
+    "tag": "watsonx.data features",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Apache Airflow",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "DataIQ",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "DataSift",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "expert labs",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "hybrid cloud",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Infrastructure Manager",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Preference: seperate (Concept A)",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "Salesforce",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "w3 search",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "cloudera",
+    "type": "\u2014"
+  },
+  {
+    "tag": "confluent",
+    "type": "\u2014"
+  },
+  {
+    "tag": "CRM",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "MCP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Tableau",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "ChatGPT",
+    "type": "\u2014"
+  },
+  {
+    "tag": "conversational BI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Node",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Splunk",
+    "type": "Company"
+  },
+  {
+    "tag": "Cognos",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "data admin",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "Data analysis",
+    "type": "Use case"
+  },
+  {
+    "tag": "data security",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "Databricks: Genie",
+    "type": "\u2014"
+  },
+  {
+    "tag": "DevOps",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "Feedback for concept B: unified",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "Hive",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Instana",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "lakehouse vs. metadata",
+    "type": "Metric"
+  },
+  {
+    "tag": "OpenSearch",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "oracle",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Unity",
+    "type": "\u2014"
+  },
+  {
+    "tag": "CI-CD",
+    "type": "\u2014"
+  },
+  {
+    "tag": "IBM Docs",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Manta",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "private preview",
+    "type": "keyword"
+  },
+  {
+    "tag": "provision",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "RAG accelerator",
+    "type": "\u2014"
+  },
+  {
+    "tag": "SQL editor",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Title (Reviews)",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "watsonx Assistant",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "architect",
+    "type": "keyword"
+  },
+  {
+    "tag": "Athena",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Atlas Hub",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "ATTU",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AWS account",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AWS CloudWatch",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AWS Lambda",
+    "type": "\u2014"
+  },
+  {
+    "tag": "azure functions",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Box",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Box connector",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Change data capture (CDC)",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Claude",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Copilot",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Cursor",
+    "type": "\u2014"
+  },
+  {
+    "tag": "data architect",
+    "type": "\u2014"
+  },
+  {
+    "tag": "data steward",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "DataStage",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Delta",
+    "type": "\u2014"
+  },
+  {
+    "tag": "EKS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Langflow",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Microsoft Teams",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "permission",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Power BI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PPT",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Preference: unified (Concept B)",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "SAP",
+    "type": "Company"
+  },
+  {
+    "tag": "SharePoint",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Terraform",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "UI issue",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Windows",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "dbt",
+    "type": "\u2014"
+  },
+  {
+    "tag": "parquet",
+    "type": "\u2014"
+  },
+  {
+    "tag": "trino",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AI use case development process",
+    "type": "Use case"
+  },
+  {
+    "tag": "Apptio",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Azure Synapse",
+    "type": "\u2014"
+  },
+  {
+    "tag": "BLOB",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Blue API",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Cluster FS",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Confluence",
+    "type": "\u2014"
+  },
+  {
+    "tag": "CPU",
+    "type": "\u2014"
+  },
+  {
+    "tag": "custom operators",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Delta Live Table",
+    "type": "\u2014"
+  },
+  {
+    "tag": "delta table",
+    "type": "\u2014"
+  },
+  {
+    "tag": "exadata",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Google Drive",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "HCD",
+    "type": "\u2014"
+  },
+  {
+    "tag": "IBM ID",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Java",
+    "type": "\u2014"
+  },
+  {
+    "tag": "JIRA",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Jupyter notebooks",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Kubernetes",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "lakehouse catalog",
+    "type": "Internal synthesis"
+  },
+  {
+    "tag": "PII masking",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "policy management",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Satenia",
+    "type": "\u2014"
+  },
+  {
+    "tag": "ServiceNow",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Slack bot",
+    "type": "\u2014"
+  },
+  {
+    "tag": "StreamSets",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "ThoughtSpot",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "watsonx BI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "watsonx.data integration",
+    "type": "\u2014"
+  },
+  {
+    "tag": "XAI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Google",
+    "type": "Company"
+  },
+  {
+    "tag": "microsoft",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Access Hub",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "admin UI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Adobe",
+    "type": "Company"
+  },
+  {
+    "tag": "Alibaba",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Anti gravity",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "apache spark",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Attu UI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Autoloader",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AWS Kinesis",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Cassandra",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "CDC",
+    "type": "\u2014"
+  },
+  {
+    "tag": "CDO",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "Client Impact",
+    "type": "\u2014"
+  },
+  {
+    "tag": "clients are internal IBMers developing AI solutions",
+    "type": "Use case"
+  },
+  {
+    "tag": "COS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "data and AI platform",
+    "type": "\u2014"
+  },
+  {
+    "tag": "data lakehouse platform",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Fivetran",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Google docs",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "GPU",
+    "type": "\u2014"
+  },
+  {
+    "tag": "HCI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "IAM",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "informatica",
+    "type": "\u2014"
+  },
+  {
+    "tag": "jupyter",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Llama",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "MCSP",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Microsoft Copilot",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "MuleSoft",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "MVP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "MySQL",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "OLTP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Oracle Cloud",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Outlook",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "PLG",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PNG",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "policies",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "PySpark",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Python SDK",
+    "type": "\u2014"
+  },
+  {
+    "tag": "R",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "React",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Red Hat OpenShift",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "SAS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "SLA",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "SQL Server",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Suzuki",
+    "type": "Company"
+  },
+  {
+    "tag": "talend data fabric",
+    "type": "\u2014"
+  },
+  {
+    "tag": "TSVETANOVA",
+    "type": "\u2014"
+  },
+  {
+    "tag": "TXT",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Unified Search",
+    "type": "\u2014"
+  },
+  {
+    "tag": "w3 ID",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Watson Discovery",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Watson Studio",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "watsonx.governance",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Amazon",
+    "type": "Company"
+  },
+  {
+    "tag": "Nvidia",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "teradata",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AAS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AI developer",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "AIML",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AIO",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Airbyte",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Alturic",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "analyst",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Angular",
+    "type": "\u2014"
+  },
+  {
+    "tag": "anthropic",
+    "type": "\u2014"
+  },
+  {
+    "tag": "apache kafka",
+    "type": "\u2014"
+  },
+  {
+    "tag": "app developer",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "AskHR",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "ASP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AWS Batch",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AWS Sagemaker",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "AWS Step Functions",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "BI development",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Bitbucket",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Blue Pay",
+    "type": "\u2014"
+  },
+  {
+    "tag": "BM25",
+    "type": "\u2014"
+  },
+  {
+    "tag": "centralized finops team",
+    "type": "Company"
+  },
+  {
+    "tag": "challenges with API",
+    "type": "\u2014"
+  },
+  {
+    "tag": "CIO",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Cisco",
+    "type": "\u2014"
+  },
+  {
+    "tag": "cliff notes",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "container hosting",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "Coursera",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "DAG (Directed Acyclic Graph)",
+    "type": "\u2014"
+  },
+  {
+    "tag": "dashboards to monitor cost/spend",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "data and ML",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Data Product Hub",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "DuckDB",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "EMEA",
+    "type": "\u2014"
+  },
+  {
+    "tag": "ERP systems",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Etiza",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Express",
+    "type": "\u2014"
+  },
+  {
+    "tag": "fabric",
+    "type": "\u2014"
+  },
+  {
+    "tag": "FTP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "generative AI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "GitHub pages",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Go language",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Google Search",
+    "type": "\u2014"
+  },
+  {
+    "tag": "gRPC endpoints",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "GUI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "HCV",
+    "type": "\u2014"
+  },
+  {
+    "tag": "HDFS",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "IBM Sales Cloud",
+    "type": "\u2014"
+  },
+  {
+    "tag": "IOPS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "IT architect",
+    "type": "\u2014"
+  },
+  {
+    "tag": "ITSM",
+    "type": "\u2014"
+  },
+  {
+    "tag": "JDBC",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "KSQL",
+    "type": "\u2014"
+  },
+  {
+    "tag": "KVP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "lakehouse metadata catalog",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Lenovo",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "LOKESH",
+    "type": "\u2014"
+  },
+  {
+    "tag": "M365",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Maximo",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "mistral",
+    "type": "\u2014"
+  },
+  {
+    "tag": "ML engineer",
+    "type": "\u2014"
+  },
+  {
+    "tag": "MSP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "NumPy",
+    "type": "\u2014"
+  },
+  {
+    "tag": "OEM",
+    "type": "\u2014"
+  },
+  {
+    "tag": "OLAP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Open tickets",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Oracle SQL Developer",
+    "type": "\u2014"
+  },
+  {
+    "tag": "ORC",
+    "type": "\u2014"
+  },
+  {
+    "tag": "OSQL",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Pager Duty",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PASQUALI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PCI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PDFS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "pinecone",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "playbook",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "PNGS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "PRC",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Product Manager",
+    "type": "Persona/Target User"
+  },
+  {
+    "tag": "PUC",
+    "type": "\u2014"
+  },
+  {
+    "tag": "RCA",
+    "type": "\u2014"
+  },
+  {
+    "tag": "RFID",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "RUS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "SCI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Secrets Manager",
+    "type": "\u2014"
+  },
+  {
+    "tag": "semantic enrichment",
+    "type": "Feature/Capability"
+  },
+  {
+    "tag": "SPGI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "TIL",
+    "type": "\u2014"
+  },
+  {
+    "tag": "TPTBSDCDS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "TSYS",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Twitter",
+    "type": "\u2014"
+  },
+  {
+    "tag": "UAE",
+    "type": "\u2014"
+  },
+  {
+    "tag": "UAT",
+    "type": "\u2014"
+  },
+  {
+    "tag": "UDI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "URL",
+    "type": "\u2014"
+  },
+  {
+    "tag": "UserTesting",
+    "type": "\u2014"
+  },
+  {
+    "tag": "UXR",
+    "type": "\u2014"
+  },
+  {
+    "tag": "VCMCP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "VCPU",
+    "type": "\u2014"
+  },
+  {
+    "tag": "Veeva CRM",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "vertica",
+    "type": "\u2014"
+  },
+  {
+    "tag": "VIP",
+    "type": "\u2014"
+  },
+  {
+    "tag": "virtual machine (VM)",
+    "type": "\u2014"
+  },
+  {
+    "tag": "visual studio (vs) code",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "VS Code",
+    "type": "\u2014"
+  },
+  {
+    "tag": "w3",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "weviate",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "XML",
+    "type": "\u2014"
+  },
+  {
+    "tag": "YIN",
+    "type": "\u2014"
+  },
+  {
+    "tag": "YouTube",
+    "type": "Tool/Software"
+  },
+  {
+    "tag": "Zero copy",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AI initiatives drive adoption interest",
+    "type": "\u2014"
+  },
+  {
+    "tag": "AI initiatives drive adoption interest, but data readiness limits execution",
+    "type": "\u2014"
+  },
+  {
+    "tag": "DKI",
+    "type": "\u2014"
+  },
+  {
+    "tag": "minio",
+    "type": "\u2014"
+  },
+  {
+    "tag": "RODRIGUEZ",
+    "type": "\u2014"
+  },
+  {
+    "tag": "TCO",
+    "type": "\u2014"
+  },
+  {
+    "tag": "XOR",
+    "type": "\u2014"
+  }
+]

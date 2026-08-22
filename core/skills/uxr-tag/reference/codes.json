@@ -1,0 +1,2070 @@
+[
+  {
+    "code": "data",
+    "description": ""
+  },
+  {
+    "code": "pain point",
+    "description": ""
+  },
+  {
+    "code": "catalog",
+    "description": ""
+  },
+  {
+    "code": "API",
+    "description": ""
+  },
+  {
+    "code": "role and team",
+    "description": ""
+  },
+  {
+    "code": "UI",
+    "description": ""
+  },
+  {
+    "code": "use case",
+    "description": ""
+  },
+  {
+    "code": "database",
+    "description": ""
+  },
+  {
+    "code": "team",
+    "description": ""
+  },
+  {
+    "code": "error",
+    "description": ""
+  },
+  {
+    "code": "document",
+    "description": ""
+  },
+  {
+    "code": "tool",
+    "description": ""
+  },
+  {
+    "code": "governance",
+    "description": ""
+  },
+  {
+    "code": "ingestion challenge",
+    "description": ""
+  },
+  {
+    "code": "documentation",
+    "description": ""
+  },
+  {
+    "code": "unstructured data",
+    "description": ""
+  },
+  {
+    "code": "project",
+    "description": ""
+  },
+  {
+    "code": "query",
+    "description": ""
+  },
+  {
+    "code": "platform",
+    "description": ""
+  },
+  {
+    "code": "ETL",
+    "description": ""
+  },
+  {
+    "code": "document library",
+    "description": ""
+  },
+  {
+    "code": "prioritizing ingestion need",
+    "description": ""
+  },
+  {
+    "code": "job",
+    "description": ""
+  },
+  {
+    "code": "pipeline",
+    "description": ""
+  },
+  {
+    "code": "like",
+    "description": ""
+  },
+  {
+    "code": "structured data",
+    "description": ""
+  },
+  {
+    "code": "dislike",
+    "description": ""
+  },
+  {
+    "code": "issue",
+    "description": ""
+  },
+  {
+    "code": "performance",
+    "description": ""
+  },
+  {
+    "code": "navigation",
+    "description": ""
+  },
+  {
+    "code": "asset",
+    "description": ""
+  },
+  {
+    "code": "team size",
+    "description": ""
+  },
+  {
+    "code": "cloud",
+    "description": ""
+  },
+  {
+    "code": "support",
+    "description": ""
+  },
+  {
+    "code": "customer",
+    "description": ""
+  },
+  {
+    "code": "friction",
+    "description": ""
+  },
+  {
+    "code": "table",
+    "description": ""
+  },
+  {
+    "code": "analytic",
+    "description": ""
+  },
+  {
+    "code": "criteria for data tool selection",
+    "description": ""
+  },
+  {
+    "code": "flow",
+    "description": ""
+  },
+  {
+    "code": "connection",
+    "description": ""
+  },
+  {
+    "code": "dashboard",
+    "description": ""
+  },
+  {
+    "code": "log",
+    "description": ""
+  },
+  {
+    "code": "environment",
+    "description": ""
+  },
+  {
+    "code": "user",
+    "description": ""
+  },
+  {
+    "code": "product",
+    "description": ""
+  },
+  {
+    "code": "data source",
+    "description": ""
+  },
+  {
+    "code": "client",
+    "description": ""
+  },
+  {
+    "code": "infrastructure",
+    "description": ""
+  },
+  {
+    "code": "context",
+    "description": ""
+  },
+  {
+    "code": "configuration",
+    "description": ""
+  },
+  {
+    "code": "connection setup",
+    "description": ""
+  },
+  {
+    "code": "engine",
+    "description": ""
+  },
+  {
+    "code": "metadata",
+    "description": ""
+  },
+  {
+    "code": "lineage",
+    "description": ""
+  },
+  {
+    "code": "solution",
+    "description": ""
+  },
+  {
+    "code": "API key",
+    "description": ""
+  },
+  {
+    "code": "enrichment",
+    "description": ""
+  },
+  {
+    "code": "feedback",
+    "description": ""
+  },
+  {
+    "code": "process",
+    "description": ""
+  },
+  {
+    "code": "notebook",
+    "description": ""
+  },
+  {
+    "code": "code",
+    "description": ""
+  },
+  {
+    "code": "value prop",
+    "description": ""
+  },
+  {
+    "code": "workflow",
+    "description": ""
+  },
+  {
+    "code": "capability",
+    "description": ""
+  },
+  {
+    "code": "format",
+    "description": ""
+  },
+  {
+    "code": "information",
+    "description": ""
+  },
+  {
+    "code": "interface",
+    "description": ""
+  },
+  {
+    "code": "alerting",
+    "description": ""
+  },
+  {
+    "code": "challenge",
+    "description": ""
+  },
+  {
+    "code": "client engagement",
+    "description": ""
+  },
+  {
+    "code": "data validation",
+    "description": ""
+  },
+  {
+    "code": "transformation",
+    "description": ""
+  },
+  {
+    "code": "confusion",
+    "description": ""
+  },
+  {
+    "code": "data transformation",
+    "description": ""
+  },
+  {
+    "code": "error message",
+    "description": ""
+  },
+  {
+    "code": "experience",
+    "description": ""
+  },
+  {
+    "code": "project setup",
+    "description": ""
+  },
+  {
+    "code": "resource",
+    "description": ""
+  },
+  {
+    "code": "column",
+    "description": ""
+  },
+  {
+    "code": "invoice",
+    "description": ""
+  },
+  {
+    "code": "POC",
+    "description": ""
+  },
+  {
+    "code": "premium",
+    "description": ""
+  },
+  {
+    "code": "service",
+    "description": ""
+  },
+  {
+    "code": "warehousing",
+    "description": ""
+  },
+  {
+    "code": "analysi",
+    "description": ""
+  },
+  {
+    "code": "machine learning",
+    "description": ""
+  },
+  {
+    "code": "migration",
+    "description": ""
+  },
+  {
+    "code": "architecture",
+    "description": ""
+  },
+  {
+    "code": "library",
+    "description": ""
+  },
+  {
+    "code": "data quality",
+    "description": ""
+  },
+  {
+    "code": "resource consumption",
+    "description": ""
+  },
+  {
+    "code": "sample project",
+    "description": ""
+  },
+  {
+    "code": "source",
+    "description": ""
+  },
+  {
+    "code": "gen AI",
+    "description": ""
+  },
+  {
+    "code": "organization",
+    "description": ""
+  },
+  {
+    "code": "type",
+    "description": ""
+  },
+  {
+    "code": "cost optimization",
+    "description": ""
+  },
+  {
+    "code": "create",
+    "description": ""
+  },
+  {
+    "code": "data drift",
+    "description": ""
+  },
+  {
+    "code": "development",
+    "description": ""
+  },
+  {
+    "code": "domain-specific resource",
+    "description": ""
+  },
+  {
+    "code": "object",
+    "description": ""
+  },
+  {
+    "code": "question",
+    "description": ""
+  },
+  {
+    "code": "support experience",
+    "description": ""
+  },
+  {
+    "code": "component",
+    "description": ""
+  },
+  {
+    "code": "connector",
+    "description": ""
+  },
+  {
+    "code": "debugging",
+    "description": ""
+  },
+  {
+    "code": "instruction",
+    "description": ""
+  },
+  {
+    "code": "pricing",
+    "description": ""
+  },
+  {
+    "code": "bucket",
+    "description": ""
+  },
+  {
+    "code": "custom",
+    "description": ""
+  },
+  {
+    "code": "on premise",
+    "description": ""
+  },
+  {
+    "code": "upstream data issue",
+    "description": ""
+  },
+  {
+    "code": "chat",
+    "description": ""
+  },
+  {
+    "code": "collaboration",
+    "description": ""
+  },
+  {
+    "code": "data intelligence",
+    "description": ""
+  },
+  {
+    "code": "data lake",
+    "description": ""
+  },
+  {
+    "code": "docs gap",
+    "description": ""
+  },
+  {
+    "code": "test",
+    "description": ""
+  },
+  {
+    "code": "BI",
+    "description": ""
+  },
+  {
+    "code": "complex",
+    "description": ""
+  },
+  {
+    "code": "content",
+    "description": ""
+  },
+  {
+    "code": "credential",
+    "description": ""
+  },
+  {
+    "code": "error message: pain point",
+    "description": ""
+  },
+  {
+    "code": "language",
+    "description": ""
+  },
+  {
+    "code": "perspective",
+    "description": ""
+  },
+  {
+    "code": "responsibilities and task",
+    "description": ""
+  },
+  {
+    "code": "system",
+    "description": ""
+  },
+  {
+    "code": "cost",
+    "description": ""
+  },
+  {
+    "code": "dashboard: key criteria",
+    "description": ""
+  },
+  {
+    "code": "data management",
+    "description": ""
+  },
+  {
+    "code": "sensitive data",
+    "description": ""
+  },
+  {
+    "code": "time",
+    "description": ""
+  },
+  {
+    "code": "big data",
+    "description": ""
+  },
+  {
+    "code": "catalog users/stakeholder",
+    "description": ""
+  },
+  {
+    "code": "data engineering",
+    "description": ""
+  },
+  {
+    "code": "data ingestion",
+    "description": ""
+  },
+  {
+    "code": "data store",
+    "description": ""
+  },
+  {
+    "code": "extract data",
+    "description": ""
+  },
+  {
+    "code": "fail",
+    "description": ""
+  },
+  {
+    "code": "feedback on definition",
+    "description": ""
+  },
+  {
+    "code": "model",
+    "description": ""
+  },
+  {
+    "code": "node",
+    "description": ""
+  },
+  {
+    "code": "admin console",
+    "description": ""
+  },
+  {
+    "code": "data lineage",
+    "description": ""
+  },
+  {
+    "code": "entity",
+    "description": ""
+  },
+  {
+    "code": "intelligence",
+    "description": ""
+  },
+  {
+    "code": "intuitive",
+    "description": ""
+  },
+  {
+    "code": "low code",
+    "description": ""
+  },
+  {
+    "code": "raw data",
+    "description": ""
+  },
+  {
+    "code": "run",
+    "description": ""
+  },
+  {
+    "code": "scalability",
+    "description": ""
+  },
+  {
+    "code": "screen",
+    "description": ""
+  },
+  {
+    "code": "username",
+    "description": ""
+  },
+  {
+    "code": "control",
+    "description": ""
+  },
+  {
+    "code": "demo",
+    "description": ""
+  },
+  {
+    "code": "data catalog",
+    "description": ""
+  },
+  {
+    "code": "file",
+    "description": ""
+  },
+  {
+    "code": "functionality",
+    "description": ""
+  },
+  {
+    "code": "real-time alerting",
+    "description": ""
+  },
+  {
+    "code": "real-time data ingestion",
+    "description": ""
+  },
+  {
+    "code": "business user",
+    "description": ""
+  },
+  {
+    "code": "career history",
+    "description": ""
+  },
+  {
+    "code": "catalog definition",
+    "description": ""
+  },
+  {
+    "code": "cost/spend on IBM products/service",
+    "description": ""
+  },
+  {
+    "code": "data cleaning",
+    "description": ""
+  },
+  {
+    "code": "data enrichment",
+    "description": ""
+  },
+  {
+    "code": "drag and drop",
+    "description": ""
+  },
+  {
+    "code": "email",
+    "description": ""
+  },
+  {
+    "code": "filter",
+    "description": ""
+  },
+  {
+    "code": "output",
+    "description": ""
+  },
+  {
+    "code": "password",
+    "description": ""
+  },
+  {
+    "code": "preview",
+    "description": ""
+  },
+  {
+    "code": "account",
+    "description": ""
+  },
+  {
+    "code": "batch data ingestion",
+    "description": ""
+  },
+  {
+    "code": "button",
+    "description": ""
+  },
+  {
+    "code": "competitor",
+    "description": ""
+  },
+  {
+    "code": "concept",
+    "description": ""
+  },
+  {
+    "code": "cost management",
+    "description": ""
+  },
+  {
+    "code": "defect",
+    "description": ""
+  },
+  {
+    "code": "implementation",
+    "description": ""
+  },
+  {
+    "code": "knowledge",
+    "description": ""
+  },
+  {
+    "code": "knowledge base",
+    "description": ""
+  },
+  {
+    "code": "latency",
+    "description": ""
+  },
+  {
+    "code": "metric",
+    "description": ""
+  },
+  {
+    "code": "natural language",
+    "description": ""
+  },
+  {
+    "code": "object storage",
+    "description": ""
+  },
+  {
+    "code": "privacy",
+    "description": ""
+  },
+  {
+    "code": "sample",
+    "description": ""
+  },
+  {
+    "code": "silver layer",
+    "description": ""
+  },
+  {
+    "code": "status",
+    "description": ""
+  },
+  {
+    "code": "terminology",
+    "description": ""
+  },
+  {
+    "code": "unstructured ingestion",
+    "description": ""
+  },
+  {
+    "code": "vector database",
+    "description": ""
+  },
+  {
+    "code": "version control",
+    "description": ""
+  },
+  {
+    "code": "application",
+    "description": ""
+  },
+  {
+    "code": "classification",
+    "description": ""
+  },
+  {
+    "code": "data pipeline",
+    "description": ""
+  },
+  {
+    "code": "expectation",
+    "description": ""
+  },
+  {
+    "code": "industry",
+    "description": ""
+  },
+  {
+    "code": "interacting",
+    "description": ""
+  },
+  {
+    "code": "license",
+    "description": ""
+  },
+  {
+    "code": "metastore",
+    "description": ""
+  },
+  {
+    "code": "pipeline health",
+    "description": ""
+  },
+  {
+    "code": "report",
+    "description": ""
+  },
+  {
+    "code": "runtime setup",
+    "description": ""
+  },
+  {
+    "code": "structure",
+    "description": ""
+  },
+  {
+    "code": "tech",
+    "description": ""
+  },
+  {
+    "code": "user feedback",
+    "description": ""
+  },
+  {
+    "code": "user interface",
+    "description": ""
+  },
+  {
+    "code": "catalog organization",
+    "description": ""
+  },
+  {
+    "code": "catalog type",
+    "description": ""
+  },
+  {
+    "code": "cost model",
+    "description": ""
+  },
+  {
+    "code": "data platform",
+    "description": ""
+  },
+  {
+    "code": "data standardization",
+    "description": ""
+  },
+  {
+    "code": "framework",
+    "description": ""
+  },
+  {
+    "code": "home",
+    "description": ""
+  },
+  {
+    "code": "logic",
+    "description": ""
+  },
+  {
+    "code": "marketing",
+    "description": ""
+  },
+  {
+    "code": "name",
+    "description": ""
+  },
+  {
+    "code": "PII",
+    "description": ""
+  },
+  {
+    "code": "session",
+    "description": ""
+  },
+  {
+    "code": "transparency",
+    "description": ""
+  },
+  {
+    "code": "data type",
+    "description": ""
+  },
+  {
+    "code": "batch",
+    "description": ""
+  },
+  {
+    "code": "connectivity issue",
+    "description": ""
+  },
+  {
+    "code": "console",
+    "description": ""
+  },
+  {
+    "code": "data ingestion tool",
+    "description": ""
+  },
+  {
+    "code": "data visualization",
+    "description": ""
+  },
+  {
+    "code": "easy",
+    "description": ""
+  },
+  {
+    "code": "entity store",
+    "description": ""
+  },
+  {
+    "code": "error handling",
+    "description": ""
+  },
+  {
+    "code": "Ingest and enrich unstructured data flow",
+    "description": ""
+  },
+  {
+    "code": "leadership decision",
+    "description": ""
+  },
+  {
+    "code": "metadata catalog definition",
+    "description": ""
+  },
+  {
+    "code": "money",
+    "description": ""
+  },
+  {
+    "code": "operator",
+    "description": ""
+  },
+  {
+    "code": "orchestrator",
+    "description": ""
+  },
+  {
+    "code": "page",
+    "description": ""
+  },
+  {
+    "code": "policy engine",
+    "description": ""
+  },
+  {
+    "code": "role description",
+    "description": ""
+  },
+  {
+    "code": "roles interacting with catalog",
+    "description": ""
+  },
+  {
+    "code": "time spent",
+    "description": ""
+  },
+  {
+    "code": "vector search",
+    "description": ""
+  },
+  {
+    "code": "assistance",
+    "description": ""
+  },
+  {
+    "code": "automatic",
+    "description": ""
+  },
+  {
+    "code": "business term",
+    "description": ""
+  },
+  {
+    "code": "consistent",
+    "description": ""
+  },
+  {
+    "code": "data flow",
+    "description": ""
+  },
+  {
+    "code": "data preprocessing",
+    "description": ""
+  },
+  {
+    "code": "data staging",
+    "description": ""
+  },
+  {
+    "code": "deploy",
+    "description": ""
+  },
+  {
+    "code": "deployable architecture automation",
+    "description": ""
+  },
+  {
+    "code": "efficiency",
+    "description": ""
+  },
+  {
+    "code": "email alert",
+    "description": ""
+  },
+  {
+    "code": "endpoint",
+    "description": ""
+  },
+  {
+    "code": "evaluation",
+    "description": ""
+  },
+  {
+    "code": "flat file",
+    "description": ""
+  },
+  {
+    "code": "getting started",
+    "description": ""
+  },
+  {
+    "code": "icon",
+    "description": ""
+  },
+  {
+    "code": "input",
+    "description": ""
+  },
+  {
+    "code": "key",
+    "description": ""
+  },
+  {
+    "code": "managing",
+    "description": ""
+  },
+  {
+    "code": "manual effort",
+    "description": ""
+  },
+  {
+    "code": "option",
+    "description": ""
+  },
+  {
+    "code": "outage",
+    "description": ""
+  },
+  {
+    "code": "platform catalog",
+    "description": ""
+  },
+  {
+    "code": "product positioning",
+    "description": ""
+  },
+  {
+    "code": "retrieval service",
+    "description": ""
+  },
+  {
+    "code": "root cause",
+    "description": ""
+  },
+  {
+    "code": "sizing",
+    "description": ""
+  },
+  {
+    "code": "study recruitment",
+    "description": ""
+  },
+  {
+    "code": "tag",
+    "description": ""
+  },
+  {
+    "code": "target",
+    "description": ""
+  },
+  {
+    "code": "tech defect",
+    "description": ""
+  },
+  {
+    "code": "technical demo",
+    "description": ""
+  },
+  {
+    "code": "trial",
+    "description": ""
+  },
+  {
+    "code": "wx.data lite plan",
+    "description": ""
+  },
+  {
+    "code": "accuracy",
+    "description": ""
+  },
+  {
+    "code": "batch ingestion",
+    "description": ""
+  },
+  {
+    "code": "billing",
+    "description": ""
+  },
+  {
+    "code": "bronze layer",
+    "description": ""
+  },
+  {
+    "code": "bug",
+    "description": ""
+  },
+  {
+    "code": "business intelligence",
+    "description": ""
+  },
+  {
+    "code": "cloud migration",
+    "description": ""
+  },
+  {
+    "code": "collection",
+    "description": ""
+  },
+  {
+    "code": "consume",
+    "description": ""
+  },
+  {
+    "code": "deployment challenge",
+    "description": ""
+  },
+  {
+    "code": "deployment space",
+    "description": ""
+  },
+  {
+    "code": "description",
+    "description": ""
+  },
+  {
+    "code": "image",
+    "description": ""
+  },
+  {
+    "code": "import",
+    "description": ""
+  },
+  {
+    "code": "interaction with catalog",
+    "description": ""
+  },
+  {
+    "code": "maintenance",
+    "description": ""
+  },
+  {
+    "code": "preview environment",
+    "description": ""
+  },
+  {
+    "code": "rate limit",
+    "description": ""
+  },
+  {
+    "code": "rating",
+    "description": ""
+  },
+  {
+    "code": "relational database",
+    "description": ""
+  },
+  {
+    "code": "report bug",
+    "description": ""
+  },
+  {
+    "code": "request",
+    "description": ""
+  },
+  {
+    "code": "schema setup",
+    "description": ""
+  },
+  {
+    "code": "SDK",
+    "description": ""
+  },
+  {
+    "code": "section",
+    "description": ""
+  },
+  {
+    "code": "share",
+    "description": ""
+  },
+  {
+    "code": "tool approval",
+    "description": ""
+  },
+  {
+    "code": "upgrade process",
+    "description": ""
+  },
+  {
+    "code": "value",
+    "description": ""
+  },
+  {
+    "code": "vector entry",
+    "description": ""
+  },
+  {
+    "code": "vector store",
+    "description": ""
+  },
+  {
+    "code": "backend",
+    "description": ""
+  },
+  {
+    "code": "blocker",
+    "description": ""
+  },
+  {
+    "code": "calibration",
+    "description": ""
+  },
+  {
+    "code": "careful",
+    "description": ""
+  },
+  {
+    "code": "chat/digital assistant",
+    "description": ""
+  },
+  {
+    "code": "check",
+    "description": ""
+  },
+  {
+    "code": "cost estimator",
+    "description": ""
+  },
+  {
+    "code": "criticism",
+    "description": ""
+  },
+  {
+    "code": "data dictionary",
+    "description": ""
+  },
+  {
+    "code": "data manipulation",
+    "description": ""
+  },
+  {
+    "code": "data warehouse",
+    "description": ""
+  },
+  {
+    "code": "dedicated instance",
+    "description": ""
+  },
+  {
+    "code": "demo environment",
+    "description": ""
+  },
+  {
+    "code": "detail",
+    "description": ""
+  },
+  {
+    "code": "drop down",
+    "description": ""
+  },
+  {
+    "code": "edit",
+    "description": ""
+  },
+  {
+    "code": "element",
+    "description": ""
+  },
+  {
+    "code": "embedding model",
+    "description": ""
+  },
+  {
+    "code": "empty",
+    "description": ""
+  },
+  {
+    "code": "enable",
+    "description": ""
+  },
+  {
+    "code": "example",
+    "description": ""
+  },
+  {
+    "code": "exercise",
+    "description": ""
+  },
+  {
+    "code": "full stack",
+    "description": ""
+  },
+  {
+    "code": "glitch",
+    "description": ""
+  },
+  {
+    "code": "hover",
+    "description": ""
+  },
+  {
+    "code": "hybrid search",
+    "description": ""
+  },
+  {
+    "code": "impact",
+    "description": ""
+  },
+  {
+    "code": "infrastructure as code",
+    "description": ""
+  },
+  {
+    "code": "internal knowledge database",
+    "description": ""
+  },
+  {
+    "code": "lower scaled",
+    "description": ""
+  },
+  {
+    "code": "manager",
+    "description": ""
+  },
+  {
+    "code": "medallion architecture",
+    "description": ""
+  },
+  {
+    "code": "memory limit",
+    "description": ""
+  },
+  {
+    "code": "non-intuitive",
+    "description": ""
+  },
+  {
+    "code": "Not heard about zero copy",
+    "description": ""
+  },
+  {
+    "code": "open source",
+    "description": ""
+  },
+  {
+    "code": "operational store",
+    "description": ""
+  },
+  {
+    "code": "overview",
+    "description": ""
+  },
+  {
+    "code": "pg vector",
+    "description": ""
+  },
+  {
+    "code": "platform catalog definition",
+    "description": ""
+  },
+  {
+    "code": "premise",
+    "description": ""
+  },
+  {
+    "code": "progress bar",
+    "description": ""
+  },
+  {
+    "code": "recreate",
+    "description": ""
+  },
+  {
+    "code": "row-level filtering",
+    "description": ""
+  },
+  {
+    "code": "sales analytic",
+    "description": ""
+  },
+  {
+    "code": "schema mismatch",
+    "description": ""
+  },
+  {
+    "code": "scroll",
+    "description": ""
+  },
+  {
+    "code": "select all",
+    "description": ""
+  },
+  {
+    "code": "semi-structured data",
+    "description": ""
+  },
+  {
+    "code": "shared instance",
+    "description": ""
+  },
+  {
+    "code": "store",
+    "description": ""
+  },
+  {
+    "code": "synthetic data",
+    "description": ""
+  },
+  {
+    "code": "tooltip",
+    "description": ""
+  },
+  {
+    "code": "tour",
+    "description": ""
+  },
+  {
+    "code": "troubleshooting",
+    "description": ""
+  },
+  {
+    "code": "trust",
+    "description": ""
+  },
+  {
+    "code": "upgrade",
+    "description": ""
+  },
+  {
+    "code": "user experience",
+    "description": ""
+  },
+  {
+    "code": "visibility",
+    "description": ""
+  },
+  {
+    "code": "warning",
+    "description": ""
+  },
+  {
+    "code": "meta store",
+    "description": ""
+  },
+  {
+    "code": "account and billing",
+    "description": ""
+  },
+  {
+    "code": "adopted",
+    "description": ""
+  },
+  {
+    "code": "adoption",
+    "description": ""
+  },
+  {
+    "code": "aid",
+    "description": ""
+  },
+  {
+    "code": "all access user",
+    "description": ""
+  },
+  {
+    "code": "analyst programming",
+    "description": ""
+  },
+  {
+    "code": "artifact",
+    "description": ""
+  },
+  {
+    "code": "asset creation",
+    "description": ""
+  },
+  {
+    "code": "background question",
+    "description": ""
+  },
+  {
+    "code": "beta leader",
+    "description": ""
+  },
+  {
+    "code": "black box",
+    "description": ""
+  },
+  {
+    "code": "blind spot",
+    "description": ""
+  },
+  {
+    "code": "budget",
+    "description": ""
+  },
+  {
+    "code": "business automation",
+    "description": ""
+  },
+  {
+    "code": "charge",
+    "description": ""
+  },
+  {
+    "code": "classified data",
+    "description": ""
+  },
+  {
+    "code": "clients are individual application developers with small repository of content to integrate with wx.O agent",
+    "description": ""
+  },
+  {
+    "code": "cloud data",
+    "description": ""
+  },
+  {
+    "code": "cloud management",
+    "description": ""
+  },
+  {
+    "code": "cloud operation",
+    "description": ""
+  },
+  {
+    "code": "cloud platform",
+    "description": ""
+  },
+  {
+    "code": "cloud providers used",
+    "description": ""
+  },
+  {
+    "code": "collapsed state",
+    "description": ""
+  },
+  {
+    "code": "common",
+    "description": ""
+  },
+  {
+    "code": "complaint",
+    "description": ""
+  },
+  {
+    "code": "computer science",
+    "description": ""
+  },
+  {
+    "code": "concern",
+    "description": ""
+  },
+  {
+    "code": "conscious",
+    "description": ""
+  },
+  {
+    "code": "core service",
+    "description": ""
+  },
+  {
+    "code": "crash",
+    "description": ""
+  },
+  {
+    "code": "creation",
+    "description": ""
+  },
+  {
+    "code": "credit",
+    "description": ""
+  },
+  {
+    "code": "data class assignment",
+    "description": ""
+  },
+  {
+    "code": "data entry",
+    "description": ""
+  },
+  {
+    "code": "data gen",
+    "description": ""
+  },
+  {
+    "code": "data integration tool",
+    "description": ""
+  },
+  {
+    "code": "data officer",
+    "description": ""
+  },
+  {
+    "code": "data premium",
+    "description": ""
+  },
+  {
+    "code": "data quality: duplicate check",
+    "description": ""
+  },
+  {
+    "code": "data quality: uniqueness check",
+    "description": ""
+  },
+  {
+    "code": "data sales leader",
+    "description": ""
+  },
+  {
+    "code": "data science",
+    "description": ""
+  },
+  {
+    "code": "data strategy",
+    "description": ""
+  },
+  {
+    "code": "data virtualization",
+    "description": ""
+  },
+  {
+    "code": "day",
+    "description": ""
+  },
+  {
+    "code": "dev edition: addl. capability",
+    "description": ""
+  },
+  {
+    "code": "dev edition: bug",
+    "description": ""
+  },
+  {
+    "code": "dev edition: issues with install",
+    "description": ""
+  },
+  {
+    "code": "dev edition: missing resources for install",
+    "description": ""
+  },
+  {
+    "code": "dev edition: symlink",
+    "description": ""
+  },
+  {
+    "code": "dev edition: technical issue after install",
+    "description": ""
+  },
+  {
+    "code": "dev edition: use case",
+    "description": ""
+  },
+  {
+    "code": "dev edition: workaround by user",
+    "description": ""
+  },
+  {
+    "code": "developer experience",
+    "description": ""
+  },
+  {
+    "code": "difference",
+    "description": ""
+  },
+  {
+    "code": "document preview",
+    "description": ""
+  },
+  {
+    "code": "document search",
+    "description": ""
+  },
+  {
+    "code": "EDA",
+    "description": ""
+  },
+  {
+    "code": "English",
+    "description": ""
+  },
+  {
+    "code": "environment runtime setting",
+    "description": ""
+  },
+  {
+    "code": "event",
+    "description": ""
+  },
+  {
+    "code": "executed",
+    "description": ""
+  },
+  {
+    "code": "expire",
+    "description": ""
+  },
+  {
+    "code": "frustrated",
+    "description": ""
+  },
+  {
+    "code": "graph database",
+    "description": ""
+  },
+  {
+    "code": "graph",
+    "description": ""
+  },
+  {
+    "code": "hard drive",
+    "description": ""
+  },
+  {
+    "code": "in-product notification",
+    "description": ""
+  },
+  {
+    "code": "index type",
+    "description": ""
+  },
+  {
+    "code": "ingestion flow",
+    "description": ""
+  },
+  {
+    "code": "interaction with metadata catalog",
+    "description": ""
+  },
+  {
+    "code": "interactive",
+    "description": ""
+  },
+  {
+    "code": "learning curve",
+    "description": ""
+  },
+  {
+    "code": "learning resource",
+    "description": ""
+  },
+  {
+    "code": "leverage",
+    "description": ""
+  },
+  {
+    "code": "low latency",
+    "description": ""
+  },
+  {
+    "code": "main page",
+    "description": ""
+  },
+  {
+    "code": "material",
+    "description": ""
+  },
+  {
+    "code": "menu comparison",
+    "description": ""
+  },
+  {
+    "code": "menu grouping",
+    "description": ""
+  },
+  {
+    "code": "metadata management",
+    "description": ""
+  },
+  {
+    "code": "navigation exercise",
+    "description": ""
+  },
+  {
+    "code": "nosql database",
+    "description": ""
+  },
+  {
+    "code": "null check",
+    "description": ""
+  },
+  {
+    "code": "operational user",
+    "description": ""
+  },
+  {
+    "code": "optional",
+    "description": ""
+  },
+  {
+    "code": "organization structure",
+    "description": ""
+  },
+  {
+    "code": "overlooked",
+    "description": ""
+  },
+  {
+    "code": "owner",
+    "description": ""
+  },
+  {
+    "code": "pallet",
+    "description": ""
+  },
+  {
+    "code": "paragraph",
+    "description": ""
+  },
+  {
+    "code": "personal access token",
+    "description": ""
+  },
+  {
+    "code": "pipeline stage",
+    "description": ""
+  },
+  {
+    "code": "policy enforcement",
+    "description": ""
+  },
+  {
+    "code": "presentation",
+    "description": ""
+  },
+  {
+    "code": "product management",
+    "description": ""
+  },
+  {
+    "code": "product team",
+    "description": ""
+  },
+  {
+    "code": "project context",
+    "description": ""
+  },
+  {
+    "code": "property",
+    "description": ""
+  },
+  {
+    "code": "publish",
+    "description": ""
+  },
+  {
+    "code": "purchase",
+    "description": ""
+  },
+  {
+    "code": "query engine",
+    "description": ""
+  },
+  {
+    "code": "range",
+    "description": ""
+  },
+  {
+    "code": "rating question",
+    "description": ""
+  },
+  {
+    "code": "reference implementation",
+    "description": ""
+  },
+  {
+    "code": "referencing",
+    "description": ""
+  },
+  {
+    "code": "related question",
+    "description": ""
+  },
+  {
+    "code": "remove",
+    "description": ""
+  },
+  {
+    "code": "research study",
+    "description": ""
+  },
+  {
+    "code": "resource units (RUs)",
+    "description": ""
+  },
+  {
+    "code": "resource usage",
+    "description": ""
+  },
+  {
+    "code": "sales configurator",
+    "description": ""
+  },
+  {
+    "code": "sales motion",
+    "description": ""
+  },
+  {
+    "code": "sales pitch",
+    "description": ""
+  },
+  {
+    "code": "sample doc",
+    "description": ""
+  },
+  {
+    "code": "scenario",
+    "description": ""
+  },
+  {
+    "code": "search engine",
+    "description": ""
+  },
+  {
+    "code": "semantic search",
+    "description": ""
+  },
+  {
+    "code": "service ID",
+    "description": ""
+  },
+  {
+    "code": "smooth",
+    "description": ""
+  },
+  {
+    "code": "social media",
+    "description": ""
+  },
+  {
+    "code": "solution architect",
+    "description": ""
+  },
+  {
+    "code": "Spanish",
+    "description": ""
+  },
+  {
+    "code": "success rate",
+    "description": ""
+  },
+  {
+    "code": "target user",
+    "description": ""
+  },
+  {
+    "code": "tech sale",
+    "description": ""
+  },
+  {
+    "code": "technial sale",
+    "description": ""
+  },
+  {
+    "code": "technical seller",
+    "description": ""
+  },
+  {
+    "code": "term",
+    "description": ""
+  },
+  {
+    "code": "theory",
+    "description": ""
+  },
+  {
+    "code": "time sery",
+    "description": ""
+  },
+  {
+    "code": "topic",
+    "description": ""
+  },
+  {
+    "code": "trace",
+    "description": ""
+  },
+  {
+    "code": "transition",
+    "description": ""
+  },
+  {
+    "code": "type langauge",
+    "description": ""
+  },
+  {
+    "code": "unified v seperate",
+    "description": ""
+  },
+  {
+    "code": "validation",
+    "description": ""
+  },
+  {
+    "code": "vector data store",
+    "description": ""
+  },
+  {
+    "code": "version comparison",
+    "description": ""
+  },
+  {
+    "code": "backup and restore",
+    "description": ""
+  },
+  {
+    "code": "but data readiness limits execution",
+    "description": ""
+  },
+  {
+    "code": "chatbot",
+    "description": ""
+  },
+  {
+    "code": "next step",
+    "description": ""
+  },
+  {
+    "code": "knowledge base",
+    "description": ""
+  },
+  {
+    "code": "instruction",
+    "description": ""
+  },
+  {
+    "code": "role and team",
+    "description": ""
+  }
+]
