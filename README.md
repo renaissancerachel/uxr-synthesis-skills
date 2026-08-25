@@ -2,7 +2,7 @@
 
 A set of [Agent Skills](https://code.claude.com/docs/en/skills) that take qualitative UX research from a raw interview transcript all the way to a finished, stakeholder-ready report — one phase at a time, each phase its own skill.
 
-Originally built for the **watsonx.data UXR team** and generalized here for anyone doing qualitative research synthesis with an AI assistant. The skills use the open Agent Skills format (a `SKILL.md` with `name` + `description` frontmatter and a Markdown body, plus any deep-dive references bundled alongside), so they load in Claude Code, Bob, or any Agent-Skills-compatible assistant. The pipeline was built tool-agnostic from the start.
+I've been refining this process for years now in my own work. I've generalized them here for anyone doing qualitative research synthesis with an AI assistant. The skills use the open Agent Skills format (a `SKILL.md` with `name` + `description` frontmatter and a Markdown body, plus any deep-dive references bundled alongside), so they load in Claude Code, Codex, Cursor, Kimi, Pi, IBM Bob, or any agent-skills-compatible assistant. The pipeline was built to be tool-agnostic.
 
 ## The pipeline
 
@@ -44,4 +44,4 @@ The template base includes one fully worked example study — *"The Base That St
 
 ## Provenance
 
-Built by Rachel Miles for the watsonx.data UX research team. Shared as a reference implementation for AI-assisted qualitative synthesis.
+Built by Rachel E. Miles. Shared as a reference implementation for AI-assisted qualitative synthesis.
