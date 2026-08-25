@@ -26,18 +26,32 @@ Wait for approval. Clean the full transcript only after the researcher approves 
 
 ## Clean
 
-Remove:
-- Filler and discourse markers: *yeah, yep, nah, oh, okay, sure, right, exactly, absolutely, totally, great, perfect, got it, mm-hmm, uh-huh, hmm* and repeated forms
-- Verbal sounds: *um, uh, er, ah*
-- Throat-clearing: *I mean, you know, like* (as filler), *sort of, kind of, basically, literally, actually* (when meaningless)
-- False starts — abandoned phrasing before the speaker restarts
-- Consecutive word repeats: *"the the"* → *"the"*
-- Moderator prompts that leaked into a participant block
+**The cardinal rule: participant words are data. When in doubt, keep it.**
 
-Preserve:
-- Every word the participant chose, including informal language
-- Hesitations that carry meaning (*"I'm not sure… maybe it was under Settings?"* — the uncertainty is the data)
-- Technical terms — never remove them; apply ASR corrections instead (see guide)
+### Moderator turns — clean freely
+Remove filler, false starts, redundant phrasing, and discourse markers from
+moderator turns. The moderator's exact wording is not research data.
+
+### Participant turns — remove only the clearest filler sounds
+Only remove:
+- Pure verbal sounds: *um, uh, er, ah*
+- Consecutive word repeats: *"the the"* → *"the"*
+- A false start where the speaker **explicitly restarts** the same sentence
+  (abandoned fragment only — keep everything from the restart onward)
+
+Do **not** remove from participant turns:
+- *like, you know, I mean, sort of, kind of, basically* — these often carry
+  hedging, uncertainty, or emphasis that is research data
+- Hesitations, trailing thoughts, or unfinished sentences — uncertainty is data
+  (*"I'm not sure… maybe it was under Settings?"* stays verbatim)
+- Informal or imprecise language — the participant's own words are the record
+- Anything that could qualify, soften, or add nuance to a statement
+
+**If removing a word would change the meaning or texture of what the participant
+said, do not remove it.**
+
+Also remove from all turns:
+- Moderator prompts that leaked into a participant block
 
 Apply ASR corrections from `reference/01-transcript-clean.md` Step 3, plus any study-specific corrections from the session config.
 
