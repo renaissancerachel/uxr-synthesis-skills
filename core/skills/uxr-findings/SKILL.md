@@ -78,6 +78,8 @@ Tags driving this finding: [tags that clustered here]
 - Named actor — "data engineers," "users," "buyers"; no passive constructions
 - Specific anchor — a feature, flow, label, or user type; not a generic topic
 - Synthesized — not a verbatim quote
+- Answers the research question — reads as a direct answer to it (or one named part), not a topic
+- Stands alone in a library — a reader from another study knows who and what (name the actor with one qualifying word; the study's scope note carries the rest)
 
 **Description rules (Details field):**
 - Everything is a bullet. Each sub-theme is a **top-level bullet with a bold header**; its quotes are **sub-bullets nested one level under it (4-space indent)**. No bare bold-header lines, no unindented quotes.
@@ -85,6 +87,12 @@ Tags driving this finding: [tags that clustered here]
 - 1–3 sub-theme bullets; every one backed by ≥1 direct quote (paraphrase doesn't count — the quote is the evidence).
 - Attribute every quote. **Default house form: first+last initials, no periods (`— VC`)**, or the verbatim username for UserTesting. (The shareable-report standard is `— P#, role, organization`; confirm which form a study uses before writing — internal studies of named colleagues use initials.)
 - Scannable structure, not prose paragraphs.
+- Every bold header is a claim — a short sentence with a verb that supports the statement — not a group or topic label.
+- Plain language: no slang, in-jokes, or codebook labels in your own words; gloss essential slang once in [brackets] inside the quote.
+- American spelling, the serial comma, and double quotation marks; source quotes stay exactly as written.
+- No code names or raw counts in the prose; prevalence is carried by the evidence-strength grade.
+
+**Public sources (social listening):** name the actor as the community or role ("AI-art critics"), not "users" or a whole profession; write one scope note per study (sources, date range, who's over- and under-represented, what it can show); claim what people *say*, not what they *do*; frame prevalence as "common in the debate," not among people; drop or flag bait, satire, and cross-posted repeats. Full rules: `reference/findings-writing-guide.md` Part 4.
 
 **Closing section (Implications / Recommendation) — optional, but expected wherever it adds something:**
 - Skip it only when the action is self-evident (a bug-like finding) or the finding is pure context. A weak, generic closing ("improve this area") is worse than none.

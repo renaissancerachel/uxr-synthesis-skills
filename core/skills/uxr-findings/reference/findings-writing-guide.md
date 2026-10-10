@@ -1,6 +1,6 @@
 # Findings writing guide
 
-A finding that takes more than a few seconds to parse has already failed. This guide covers what makes a statement work, how to structure the description, and when to add a closing section. It applies whether you're a human researcher or an LLM working with the Findings table.
+A finding that takes more than a few seconds to parse has already failed. This guide covers what makes a statement work, how to structure the description, when to add a closing section, and what changes when the evidence comes from public sources. It applies whether you're a human researcher or an LLM working with the Findings table.
 
 ---
 
@@ -53,6 +53,20 @@ A finding is a claim derived from evidence. Research questions belong in the Res
 
 **Synthesize; don't quote**
 The statement is a synthesized observation. Quotes belong in the description as evidence.
+
+**Answer the research question**
+A finding is an answer. Read the research question, then the statement: the statement should read as a direct answer to the question or to one named part of it. If it reads as a topic ("Art requires a human and people debate whether a human directing AI counts"), it isn't a finding yet.
+
+> ✓ RQ: "Where do the two camps share an underlying concern?" → "AI-art critics and many supporters agree that art needs a human maker"
+> ✗ "Art requires a human and people debate whether a human directing AI counts"
+
+**Make it stand alone in a library**
+A finding is read next to findings from other studies. Give just enough context that a reader from another study knows *who* and *what* without opening it, usually by naming the actor with one qualifying word. Don't spend more than two or three words on it; the study's scope note carries the rest.
+
+> ✓ "AI-art critics and supporters each dismiss the other's reasons as selfish"
+> ✗ "Each side dismisses the other's reasons as cover for a selfish motive" (which sides? of what?)
+
+*Added October 10, 2026: "Answer the research question" and "Make it stand alone in a library."*
 
 ---
 
@@ -108,8 +122,24 @@ Prose hides the evidence structure. A reader should be able to scan the descript
 >     - "The catalog is the interface… sort of like a connector in the sense of Presto." — GW
 >     - "I find them confusing… I don't intrinsically know why there's a Hive catalog." — JW
 
+**Make each bullet a claim, not a category**
+A bullet header is a short sentence with a verb, and it says something that supports the statement. Its quotes prove that sentence. A header that only names a group or a topic ("Estrangement inside the family," "Pro-AI users") makes the reader do the interpreting.
+
+> ✓ **Critics feel unheard when relatives embrace AI**
+> ✗ **Estrangement inside the family**
+
+Test: cover the quotes. Do the headers alone still argue for the statement?
+
+**Write in plain language**
+Write for a smart reader outside the field. In the statement, headers, and closing, use everyday words; no internet slang, community in-jokes, or codebook labels. When choosing quotes, prefer the plain one when two make the same point. When a quote's slang is essential, gloss it once in square brackets inside the quote: "the micro-commission economy [artists who sell small paid commissions]".
+
+**Use American spelling and punctuation**
+In everything you write (statement, headers, closing): American spelling ("organized," "centers," "behavior"), the serial comma, and double quotation marks. Quotes from sources stay exactly as written.
+
 **Start with evidence, not repetition**
 The description adds evidence, not restatement. Open with your first evidence bullet — don't echo the finding statement in the opening line.
+
+*Added October 10, 2026: "Make each bullet a claim, not a category," "Write in plain language," and "Use American spelling and punctuation."*
 
 ---
 
@@ -142,6 +172,9 @@ Useful action verbs: KEEP, MOVE, RENAME, SPLIT, COMBINE, ADD, REMOVE, SUPPRESS.
 > ✗ **Recommendation**
 > Make the chat pop-up less annoying for users.
 
+**Keep codebook mechanics out of the prose**
+Don't put code names or raw counts ("motive imputation appears in 618 points from 485 authors") in a closing. Prevalence is shown by the evidence-strength grade; if a closing needs scale, say it in words ("common across both camps"). *(Added October 10, 2026.)*
+
 **Name role differences when evidence supports them**
 If engineers and business users (or admins and consumers, or sellers and buyers) behave differently, say so explicitly rather than treating "users" as a monolith.
 
@@ -150,7 +183,30 @@ If engineers and business users (or admins and consumers, or sellers and buyers)
 
 ---
 
-## Part 4: Improvement checklist
+## Part 4: Findings from public sources (social listening)
+
+Interview findings describe participants you recruited. Public-source findings describe people who chose to post, which changes what a finding can claim.
+
+**Name who is talking, honestly**
+Name the actor as the community or role the evidence comes from ("AI-art critics," "commenters in AI-art debate forums," "GitHub issue reporters"), not "users" or a whole profession ("artists").
+
+**Write a scope note for every public-source study**
+State, once per study: where the data came from (platforms and communities), the date range, who it over- and under-represents, and what it can show. Statements then stay short.
+
+**It's what people say, not what they do**
+Public posts are claims, arguments, and stories told to an audience, often to win a point. Write findings about what people say, argue, or report. Don't turn them into findings about behavior or outcomes ("artists are losing income") without other evidence.
+
+**Common in the debate, not common among people**
+Prevalence describes the share of the *conversation*, not of a population. "Common in the debate" is fine; "most artists" is not. The loudest, most committed voices are over-represented by design.
+
+**Check for bait, satire, and repeats**
+Public data contains trolling, satire, and the same post in several communities. Drop or flag a quote that reads as bait, and never let one person's cross-posts count as several voices.
+
+*Added October 10, 2026.*
+
+---
+
+## Part 5: Improvement checklist
 
 Run any finding through this list to assess and improve it.
 
@@ -163,6 +219,8 @@ Run any finding through this list to assess and improve it.
 - [ ] Subject named — no passive constructions hiding the actor?
 - [ ] A statement, not a question?
 - [ ] Synthesized, not a verbatim quote?
+- [ ] Reads as a direct answer to the research question (or one named part of it)?
+- [ ] Stands alone: a reader from another study knows who and what?
 
 **Description**
 - [ ] Details field is populated?
@@ -171,6 +229,10 @@ Run any finding through this list to assess and improve it.
 - [ ] Every quote is attributed in the correct format (`"quote" — P#, role, organization`, or handle + community + link for public sources)?
 - [ ] Scannable structure (not prose paragraphs)?
 - [ ] Description adds evidence rather than restating the statement?
+- [ ] Every bullet header is a claim (a sentence with a verb), not a group or topic?
+- [ ] Plain language; any essential slang glossed in [brackets]?
+- [ ] American spelling, the serial comma, and double quotation marks (source quotes untouched)?
+- [ ] No codebook names or raw counts in the prose?
 
 **Closing section**
 - [ ] If present, does it add something beyond what the finding already says?
@@ -178,9 +240,15 @@ Run any finding through this list to assess and improve it.
 - [ ] If using Recommendation: specific action verb, grounded in evidence?
 - [ ] Role differences named if evidence supports them?
 
+**Public sources**
+- [ ] Actor named as the community or role, not "users" or a whole profession?
+- [ ] The study has a scope note?
+- [ ] Claims stay at "say," not "do"; prevalence framed as "in the debate"?
+- [ ] Bait, satire, and cross-posted repeats dropped or flagged?
+
 ---
 
-## Part 5: Where findings go wrong
+## Part 6: Where findings go wrong
 
 | Problem | Example | Fix |
 |---|---|---|
@@ -200,7 +268,7 @@ Run any finding through this list to assess and improve it.
 
 ---
 
-## Part 6: Examples
+## Part 7: Examples
 
 Three examples across different categories, each illustrating a different closing section choice.
 
