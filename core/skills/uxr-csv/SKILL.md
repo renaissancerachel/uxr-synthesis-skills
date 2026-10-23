@@ -32,6 +32,16 @@ Do not split when:
 
 Include all moderator turns — leave their Tags cell blank. They stay for context.
 
+## Preserve exact wording
+
+**The Data point cell must carry the participant's exact words from the cleaned transcript. Do not rewrite, paraphrase, or convert to reported speech — even when splitting a long turn.**
+
+Reported speech (*"He said he uses the tool"*, *"Doesn't use MD files"*, *"They manage two types of skills"*) is not acceptable. If a split creates a fragment that reads oddly without context, add a minimal bracketed note — e.g. *[re: the plugin]* or *[on token usage]* — but the participant's own words must remain intact.
+
+This applies to all speakers, including participants with long or complex turns.
+
+Include all moderator turns — leave their Tags cell blank. They stay for context.
+
 ## CSV format
 
 ```
