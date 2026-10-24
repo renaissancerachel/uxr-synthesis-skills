@@ -9,7 +9,7 @@ A quality gate between **Phase 4 (RQ)** and **Phase 5 (Findings)**. Findings are
 
 Guiding rule: **"More is better" for codes — tag every filterable keyword; quantity is good because you never know what someone will want to filter by. Quality is for Findings, not codes.** This phase acts on the **keyword layer only**. It never adds or edits analytical **Theme** codes — those are the researcher's synthesis layer.
 
-> Relationship to Phase 3 (`/uxr-tag`): the 5–7-tags-per-row cap in `/uxr-tag` governs the *initial semantic-coding* pass (keeping the interpretive layer readable). This QA pass intentionally allows **more** keyword tags per row, because keywords are the filter layer and completeness beats brevity there.
+Relationship to Phase 3 (/uxr-tag): /uxr-tag keeps interpretive codes tight (~5 per row) and puts no cap on grounded keywords. This QA pass works on the keyword layer only — it backfills verbatim mentions Phase 3 missed, so it can add keywords to a row, but it never adds interpretive codes.
 
 ## Input required
 
